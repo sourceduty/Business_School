@@ -12,6 +12,12 @@ In addition to general business guidance, this GPT emphasizes a personalized, st
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
+<br>
+[Deceptive Business](https://github.com/sourceduty/Deceptive_Business)
+<br>
+[International Business](https://github.com/sourceduty/International_Business)
+<br>
+[Business Automation](https://github.com/sourceduty/Business_Automation)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
